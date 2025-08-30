@@ -1,16 +1,15 @@
-### 👋 Hi, I'm @Fentaniao.
+## 👋 Hi, I'm Ruiyang Zhou @ruiyangzhou01
 
-- 🔭 I'm currently working on Quantumn Machine Learning.
-- 🎉 I worked on Biomathematics, such the dynamics of HIV and COVID-19 though modeling with Differential Equations.
-- 👀 I'm passionate about coding, Physics, and Mathematics. I record my notes in https://fentaniao.github.io.
-- 🌱 I'm currently diving deeper into Machine Learning and Quantumn Physics.
-- 📫 Reach me at: GitHub or fentaniao@gmail.com.
+- 🔭 My research interests include **Machine Learning**, **Biomathematics**, and **Quantum Information**.
+- 👀 I'm passionate about **coding**, **physics**, and **mathematics**.
+- 🌱 I consider GitHub as a platform for collaboration and sharing knowledge.
+- 📫 Feel free to reach out.
 
 <p>
-  <img alt="Starts" align="center" src="https://github-readme-stats-one-bice.vercel.app/api?username=Fentaniao&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER" />
+  <img alt="Starts" align="center" src="https://github-readme-stats-one-bice.vercel.app/api?username=ruiyangzhou01&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER" />
 </p>
 
-### Languages
+### Tech Stack
 
 <p>
   <img alt="Python" align="center" src="https://img.shields.io/badge/-Python-3572A5?style=flat&logo=python&logoColor=white" />
@@ -37,16 +36,7 @@
 ### Platforms
 
 <p>
-    <img alt="Windows 11 Dev" align="center" src="https://img.shields.io/badge/-Windows_11_Dev-31BBFF?style=flat&logo=Microsoft&logoColor=white" />
-    <img alt="Linux" align="center" src="https://img.shields.io/badge/-Linux-00ADD8?style=flat&logo=linux&logoColor=white" />
-    <img alt="Ubuntu" align="center" src="https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=Ubuntu&logoColor=white" />
+  <img alt="Windows" align="center" src="https://img.shields.io/badge/-Windows-31BBFF?style=flat&logo=Microsoft&logoColor=white" />
+  <img alt="Linux" align="center" src="https://img.shields.io/badge/-Linux-00ADD8?style=flat&logo=linux&logoColor=white" />
+  <img alt="Ubuntu" align="center" src="https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=Ubuntu&logoColor=white" />
 </p>
-
-<!---
-Click here to see my details.
---->
-
-<!---
-Fentaniao/Fentaniao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
